@@ -22,8 +22,9 @@ Save the dataset to a known directory on your local machine.
 
 ## Configuring the Dataset Path
 Update the file_path variable in the script to the location where you have saved the dataset. For example:
+```bash
 file_path = '/path/to/your/Electric_Vehicle_Population_Data.csv'
-
+```
 
 ## Usage
 Data Loading and Preprocessing: The script starts with loading the data and includes functions for handling missing values and preprocessing.
